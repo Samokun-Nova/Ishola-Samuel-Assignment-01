@@ -22,6 +22,7 @@ function sumOfNumbersTo(destination) {
     return sum
 }
 
+
     assignment.sumOfNumbersTo = sumOfNumbersTo;
 
 /**
